@@ -31,31 +31,31 @@
 .u-section-1 .u-text-3 {margin-left: 14px}
 .u-section-1 .u-image-1 {min-height: 269px} }.u-section-2 .u-sheet-1 {min-height: 366px}
 .u-section-2 .u-text-1 {font-weight: 700; margin: 60px auto 0}
-.u-section-2 .u-list-1 {min-height: 220px; grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px); grid-gap: 10px 10px; height: auto; width: 1140px; margin: 28px auto 0 0}
+.u-section-2 .u-list-1 {min-height: 220px; grid-template-columns: calc(33.3333% - 7px) calc(33.3333% - 7px) calc(33.3333% - 7px); grid-gap: 10px 10px; margin: 28px auto 0 0}
 .u-section-2 .u-list-item-1 {height: 239px}
 .u-section-2 .u-container-layout-1 {padding: 30px 20px 64px}
 .u-section-2 .u-icon-1 {height: 65px; width: 65px; background-image: none; margin: 0 auto 0 0}
-.u-section-2 .u-group-1 {width: 256px; min-height: 145px; height: auto; margin: -65px 0 0 auto}
+.u-section-2 .u-group-1 {width: 256px; min-height: 145px; margin: -65px 0 0 auto}
 .u-section-2 .u-container-layout-2 {padding: 0 20px 20px 30px}
 .u-section-2 .u-text-2 {font-weight: 700; margin: 0 auto 0 0}
 .u-section-2 .u-text-3 {margin: 20px auto 0 0}
 .u-section-2 .u-list-item-2 {height: 239px}
 .u-section-2 .u-container-layout-3 {padding: 30px 20px 64px}
 .u-section-2 .u-icon-2 {height: 65px; width: 65px; background-image: none; margin: 0 auto 0 0}
-.u-section-2 .u-group-2 {width: 256px; min-height: 145px; background-size: auto; height: auto; margin: -65px 0 0 auto}
+.u-section-2 .u-group-2 {width: 256px; min-height: 145px; background-size: auto; margin: -65px 0 0 auto}
 .u-section-2 .u-container-layout-4 {padding: 0 20px 20px 30px}
 .u-section-2 .u-text-4 {font-weight: 700; margin: 0 auto 0 0}
 .u-section-2 .u-text-5 {margin: 20px auto 0 0}
 .u-section-2 .u-list-item-3 {height: 239px}
 .u-section-2 .u-container-layout-5 {padding: 30px 20px 64px}
 .u-section-2 .u-icon-3 {height: 65px; width: 65px; background-image: none; margin: 0 auto 0 0}
-.u-section-2 .u-group-3 {width: 256px; min-height: 145px; background-size: auto; height: auto; margin: -65px 0 0 auto}
+.u-section-2 .u-group-3 {width: 256px; min-height: 145px; background-size: auto; margin: -65px 0 0 auto}
 .u-section-2 .u-container-layout-6 {padding: 0 20px 20px 30px}
 .u-section-2 .u-text-6 {font-weight: 700; margin: 0 auto 0 0}
 .u-section-2 .u-text-7 {margin: 20px auto 0 0} 
 
 @media (max-width: 1199px){ .u-section-2 .u-sheet-1 {min-height: 327px}
-.u-section-2 .u-list-1 {min-height: 181px; margin-right: initial; margin-left: initial; width: auto}
+.u-section-2 .u-list-1 {min-height: 181px; height: auto; margin-right: initial; margin-left: initial}
 .u-section-2 .u-group-1 {width: 201px; min-height: 203px}
 .u-section-2 .u-container-layout-2 {padding-left: 20px}
 .u-section-2 .u-group-2 {width: 201px; min-height: 203px}
@@ -64,7 +64,7 @@
 .u-section-2 .u-container-layout-6 {padding-left: 20px} }
 
 @media (max-width: 991px){ .u-section-2 .u-sheet-1 {min-height: 951px}
-.u-section-2 .u-list-1 {min-height: 416px; grid-template-columns: calc(((100% - 720px) / 2) + 355px) calc(((100% - 720px) / 2) + 355px); width: auto; margin-right: initial; margin-left: initial}
+.u-section-2 .u-list-1 {min-height: 416px; grid-template-columns: calc(((100% - 720px) / 2) + 355px) calc(((100% - 720px) / 2) + 355px); margin-right: initial; margin-left: initial}
 .u-section-2 .u-container-layout-1 {padding-bottom: 30px}
 .u-section-2 .u-group-1 {width: 243px; min-height: 166px}
 .u-section-2 .u-container-layout-3 {padding-bottom: 30px}
@@ -72,7 +72,7 @@
 .u-section-2 .u-container-layout-5 {padding-bottom: 30px}
 .u-section-2 .u-group-3 {width: 243px; min-height: 166px} }
 
-@media (max-width: 767px){ .u-section-2 .u-list-1 {grid-template-columns: 100%; margin-top: 115px; width: auto; margin-right: initial; margin-left: initial}
+@media (max-width: 767px){ .u-section-2 .u-list-1 {grid-template-columns: 100%; margin-top: 115px; margin-right: initial; margin-left: initial}
 .u-section-2 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
 .u-section-2 .u-group-1 {width: 443px}
 .u-section-2 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
